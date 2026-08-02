@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/GrepTheFlag.png" alt="grep-the-flag — Swiss flag under the magnifying glass" width="380">
+</p>
+
 ```
 GREP-THE-FLAG(1)               Community Manual               GREP-THE-FLAG(1)
 ```
