@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/GrepTheFlag.png" alt="grep-the-flag — Swiss flag under the magnifying glass" width="380">
+  <img src="assets/GrepTheFlag.png" alt="grep-the-flag — Swiss flag under the magnifying glass" width="500">
 </p>
 
 ```
